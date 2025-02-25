@@ -16,6 +16,12 @@
         <mxCell id="KPfpb85ASo9fnWLCJ1Un-4" value="是否大于20万" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="150" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="KPfpb85ASo9fnWLCJ1Un-5" value="是否大于40万" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KPfpb85ASo9fnWLCJ1Un-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
