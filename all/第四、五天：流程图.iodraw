@@ -22,6 +22,9 @@
         <mxCell id="E5vsMh443NucANaPqPWD-4" value="模式二：&lt;div&gt;每位学生表演完，评委依次给他打分&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
