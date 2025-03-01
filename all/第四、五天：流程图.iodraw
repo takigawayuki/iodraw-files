@@ -34,8 +34,14 @@
         <mxCell id="E5vsMh443NucANaPqPWD-4" value="模式二：&lt;div&gt;每位学生表演完，评委依次给他打分&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E5vsMh443NucANaPqPWD-5" target="E5vsMh443NucANaPqPWD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-5" value="计算每位学生的平均分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="600" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E5vsMh443NucANaPqPWD-8" target="E5vsMh443NucANaPqPWD-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-8" value="找出平均分最高的三位&lt;div&gt;学生序号及分数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="650" width="154" height="60" as="geometry" />
@@ -46,7 +52,7 @@
         <mxCell id="E5vsMh443NucANaPqPWD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.586;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E5vsMh443NucANaPqPWD-2" target="E5vsMh443NucANaPqPWD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E5vsMh443NucANaPqPWD-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="E5vsMh443NucANaPqPWD-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.424;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="E5vsMh443NucANaPqPWD-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="500" as="sourcePoint" />
             <mxPoint x="440" y="500" as="targetPoint" />
