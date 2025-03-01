@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-1" value="输入学生、评委数量&lt;div&gt;评分模式&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="220" width="230" height="70" as="geometry" />
+          <mxGeometry x="299" y="220" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E5vsMh443NucANaPqPWD-2" target="E5vsMh443NucANaPqPWD-3">
           <mxGeometry relative="1" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-8" value="找出平均分最高的三位&lt;div&gt;学生序号及分数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="650" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E5vsMh443NucANaPqPWD-9" target="WLdOBQwG_37CFQjM3jBF-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-9" value="输出相关值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="750" width="120" height="60" as="geometry" />
