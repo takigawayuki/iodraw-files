@@ -25,6 +25,9 @@
         <mxCell id="E5vsMh443NucANaPqPWD-2" value="判断评分模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="350" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E5vsMh443NucANaPqPWD-3" target="E5vsMh443NucANaPqPWD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-3" value="模式一：&lt;div&gt;全部学生表演结束，&lt;/div&gt;&lt;div&gt;每个评委一次性给全部学生打分&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="440" width="120" height="120" as="geometry" />
         </mxCell>
@@ -42,6 +45,12 @@
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.586;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E5vsMh443NucANaPqPWD-2" target="E5vsMh443NucANaPqPWD-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
