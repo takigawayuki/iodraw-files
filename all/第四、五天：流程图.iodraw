@@ -23,7 +23,7 @@
           <mxGeometry x="550" y="440" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-5" value="计算每位学生的平均分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="600" width="120" height="30" as="geometry" />
+          <mxGeometry x="354" y="600" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E5vsMh443NucANaPqPWD-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="660" width="154" height="30" as="geometry" />
