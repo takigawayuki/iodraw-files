@@ -19,6 +19,9 @@
         <mxCell id="E5vsMh443NucANaPqPWD-3" value="模式一：&lt;div&gt;全部学生表演结束，&lt;/div&gt;&lt;div&gt;每个评委一次性给全部学生打分&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="440" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-4" value="模式二：&lt;div&gt;每位学生表演完，评委依次给他打分&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
