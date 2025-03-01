@@ -10,8 +10,8 @@
         <mxCell id="WLdOBQwG_37CFQjM3jBF-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E5vsMh443NucANaPqPWD-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="E5vsMh443NucANaPqPWD-1" value="输入学生、评委数量&lt;div&gt;打分模式&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
