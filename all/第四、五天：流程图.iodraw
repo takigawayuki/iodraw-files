@@ -13,6 +13,9 @@
         <mxCell id="E5vsMh443NucANaPqPWD-1" value="输入学生、评委数量&lt;div&gt;评分模式&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="230" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="E5vsMh443NucANaPqPWD-2" value="判断评分模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="350" width="210" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
