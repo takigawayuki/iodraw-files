@@ -22,7 +22,7 @@
         <mxCell id="KPfpb85ASo9fnWLCJ1Un-6" value="是否大于60万" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CJynI6qxJqrYRL1bqUAv-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-1" value="是否大于100万" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="250" width="154" height="80" as="geometry" />
         </mxCell>
       </root>
