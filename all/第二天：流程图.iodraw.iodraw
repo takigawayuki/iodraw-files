@@ -43,8 +43,8 @@
         <mxCell id="CJynI6qxJqrYRL1bqUAv-7" value="&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;bonus&lt;br/&gt;= 10 * R1_RATE + 10 * R2_RATE + 20 * R3_RATE + 20 * R4_RATE + 40 * R5_RATE +&lt;br/&gt;(profit - 100) * R6_RATE&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="320" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="CJynI6qxJqrYRL1bqUAv-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-8" value="s输出结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="630" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
