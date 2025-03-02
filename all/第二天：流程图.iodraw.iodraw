@@ -13,8 +13,14 @@
         <mxCell id="KPfpb85ASo9fnWLCJ1Un-3" value="利润是否&lt;div&gt;大于10万&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="20" y="240" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPfpb85ASo9fnWLCJ1Un-4" target="CJynI6qxJqrYRL1bqUAv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KPfpb85ASo9fnWLCJ1Un-4" value="是否大于20万" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPfpb85ASo9fnWLCJ1Un-5" target="CJynI6qxJqrYRL1bqUAv-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KPfpb85ASo9fnWLCJ1Un-5" value="是否大于40万" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="324" y="240" width="150" height="100" as="geometry" />
@@ -22,8 +28,17 @@
         <mxCell id="CJynI6qxJqrYRL1bqUAv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPfpb85ASo9fnWLCJ1Un-6" target="CJynI6qxJqrYRL1bqUAv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPfpb85ASo9fnWLCJ1Un-6" target="CJynI6qxJqrYRL1bqUAv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KPfpb85ASo9fnWLCJ1Un-6" value="是否大于60万" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJynI6qxJqrYRL1bqUAv-1" target="CJynI6qxJqrYRL1bqUAv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJynI6qxJqrYRL1bqUAv-1" target="CJynI6qxJqrYRL1bqUAv-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJynI6qxJqrYRL1bqUAv-1" value="是否大于100万" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="250" width="154" height="80" as="geometry" />
