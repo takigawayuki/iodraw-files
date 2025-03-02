@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WLdOBQwG_37CFQjM3jBF-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=47;" parent="1" vertex="1">
-          <mxGeometry x="354" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WLdOBQwG_37CFQjM3jBF-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPfpb85ASo9fnWLCJ1Un-3" value="利润是否&lt;div&gt;大于10万&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="20" y="240" width="100" height="100" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="CJynI6qxJqrYRL1bqUAv-8" value="s输出结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="630" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CJynI6qxJqrYRL1bqUAv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLdOBQwG_37CFQjM3jBF-2" target="KPfpb85ASo9fnWLCJ1Un-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
